@@ -1,0 +1,11 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "5.2.*"
+    },
+    "authors": [
+        {
+            "name": "AlloVince",
+            "email": "allo.vince@gmail.com"
+        }
+    ]
+}
